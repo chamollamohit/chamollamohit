@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![Md Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadUmar0786&show_icons=true&theme=radical)
+![Md Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamollamohit&show_icons=true&theme=radical)
 
 ## 🔥 Current Streak
 
