@@ -44,19 +44,19 @@
 ## 🔥 Current Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=MohammadUmar0786&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Chamollamohit&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🏆 Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadUmar0786&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamollamohit&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadUmar0786&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamollamohit&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 
