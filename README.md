@@ -47,9 +47,9 @@ I am a Full Stack Developer with a background in **MSc Physics** and experience 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Store--It](https://github.com/chamollamohit)** | A Google Drive clone with file storage, dashboard visualization, and secure sharing. | Next.js, TypeScript, Appwrite, Shadcn, Recharts |
-| **[Vibe Code Editor](https://github.com/chamollamohit)** | A browser-based IDE using WebContainer API for live Node.js execution. | React, WebContainer API, Monaco Editor, PostgreSQL |
-| **[AI Mentors](https://github.com/chamollamohit)** | An AI chat platform offering personalized codibg mentorship. | Next.js, MongoDB, Clerk Auth, AI Integration |
+| **[Store--It]([https://github.com/chamollamohit](https://github.com/chamollamohit/store-it))** | A Google Drive clone with file storage, dashboard visualization, and secure sharing. | Next.js, TypeScript, Appwrite, Shadcn, Recharts |
+| **[Vibe Code Editor]([https://github.com/chamollamohit](https://github.com/chamollamohit/vibe-code-editor))** | A browser-based IDE using WebContainer API for live Node.js execution. | React, WebContainer API, Monaco Editor, PostgreSQL |
+| **[AI Mentors]([https://github.com/chamollamohit](https://github.com/chamollamohit/ai-mentors))** | An AI chat platform offering personalized codibg mentorship. | Next.js, MongoDB, Clerk Auth, AI Integration |
 
 ---
 
