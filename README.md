@@ -5,7 +5,7 @@
 I am a Full Stack Developer with a background in **MSc Physics** and experience in **EdTech Operations** (Vedantu, Adda24). I bridge the gap between analytical problem-solving and modern web engineering, building scalable applications with the **Next.js** ecosystem.
 
 - 🔭 I’m currently working on **Vibe Code Editor**.
-- 🌱 I’m currently refining my skills in **Docker**.
+- 🌱 I’m currently refining my skills in **Gen AI**.
 - 👯 I’m open to full-stack roles and open-source collaborations.
 - 📍 Based in **Jaipur, Rajasthan**.
 
