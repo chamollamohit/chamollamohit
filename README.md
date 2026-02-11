@@ -187,7 +187,7 @@ const mohit = {
 
 ## 📚 Education
 
-**M.Sc. in Physics** | Maharaja Ganga Singh University | 2023 - 2025 (Expected)
+**M.Sc. in Physics** | Maharaja Ganga Singh University | 2023 - 2025
 
 **Integrated B.Sc. + B.Ed.** | Maharaja Ganga Singh University | 2019 - 2023
 
