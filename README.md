@@ -119,20 +119,6 @@ Currently pursuing **M.Sc. in Physics** while crafting production-grade applicat
 
 ---
 
-### 🤖 [**AI Mentors**](https://github.com/chamollamohit/ai-mentors) | [Live Demo](https://ai-mentors.mohitchamolla.site/)
-
-> AI-powered chat platform offering personalized coding mentorship
-
-**Key Features:**
-
--   💬 Real-time AI conversations for coding guidance
--   🧠 Context-aware responses for debugging and code explanation
--   🔐 Secure authentication with Clerk
--   💾 Chat history persistence with MongoDB
-
-**Tech Stack:** `Next.js` `MongoDB` `Clerk Auth` `OpenAI API` `Tailwind CSS`
-
----
 
 ## 💼 Professional Experience
 
