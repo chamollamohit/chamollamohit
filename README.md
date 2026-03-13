@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with a unique background combining **3+ years of EdTech operations** (Vedantu, Adda247) and modern web development expertise. I don't just write code—I build solutions inspired by real-world challenges I've observed at scale.
+Full Stack Developer with a unique background combining **3+ years of EdTech operations** (Vedantu, Adda247) and modern web development expertise. I don't just write code I build solutions inspired by real-world challenges I've observed at scale.
 
 Currently pursuing **M.Sc. in Physics** while crafting production-grade applications with React, Next.js, and TypeScript. I bridge analytical problem-solving with technical execution to create user-centric, scalable platforms.
 
@@ -45,7 +45,6 @@ Currently pursuing **M.Sc. in Physics** while crafting production-grade applicat
 ### **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=white)
 
 ### **Tools & DevOps**
 
@@ -71,22 +70,22 @@ Currently pursuing **M.Sc. in Physics** while crafting production-grade applicat
 
 **Key Features:**
 
--   🎬 Netflix-style video player with time-locked lessons and progress tracking
--   ⚡ Batch Operations engine enabling bulk schedule generation via Excel upload
--   🔐 Role-Based Access Control (RBAC) with NextAuth.js
--   💳 Razorpay payment gateway with secure server-side verification
--   📊 Analytics dashboard with Recharts for revenue tracking
--   ✍️ Rich text editor using Tiptap for course content
+-   **🎬 Secure Content Delivery:** Video player powered by AWS CloudFront Signed URLs with time-locked lessons.
+-   **⚡ Asynchronous Video Pipeline:** Event-driven architecture using AWS S3, SQS, and Lambda to process video metadata via secure webhooks without blocking the main server.
+-   **🚀 High-Performance Caching:** Integrated Redis (ioredis) layer for course metadata and student progress, achieving sub-50ms page loads.
+-   **📊 Batch Operations Engine:** Custom engine for bulk schedule generation via Excel uploads, utilizing Prisma Transactions to ensure 100% data integrity.
+-   **💳 Secure Payments:** Integrated Razorpay with server-side signature verification and automated enrollment workflows.
+-   **🔐 Advanced RBAC:** Strict Role-Based Access Control and course-level permission gating implemented via NextAuth.js.
 
-**Tech Stack:** `Next.js` `TypeScript` `MongoDB` `Prisma` `NextAuth.js` `Razorpay` `Tailwind CSS`
+**Tech Stack:** `Next.js` `TypeScript` `AWS` `(S3/SQS/Lambda/CloudFront)` `Redis` `MongoDB` `Prisma` `NextAuth.js` `Razorpay` `Tailwind CSS`
 
-**Learning Focus:** Building complex LMS architecture, implementing Prisma Transactions for data integrity, integrating payment systems, and creating deep course hierarchies.
+**Learning Focus:** Implementing event-driven systems with AWS SQS/Lambda, architecting multi-layer caching with Redis, and securing private content delivery at the edge with CloudFront.
 
 ---
 
 ### 💻 [**VibeCode Editor - Browser IDE**](https://github.com/chamollamohit/vibe-code-editor) | [Live Demo](https://vibe-code-editor.mohitchamolla.site)
 
-> Browser-native IDE executing Node.js directly in your browser—no backend servers needed
+> Browser-native IDE executing Node.js directly in your browser no backend servers needed
 
 **Key Features:**
 
@@ -163,7 +162,7 @@ const mohit = {
         "Understanding of both technical and operational aspects",
         "User-centric approach informed by managing platforms at scale",
     ],
-    approach: "I don't just build features—I solve real problems",
+    approach: "I don't just build features I solve real problems",
     currentFocus: "Creating scalable, production-grade applications",
     openTo: ["Full-Stack Roles", "Open Source Contribution"],
 };
