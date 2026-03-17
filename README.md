@@ -64,6 +64,24 @@ Currently pursuing **M.Sc. in Physics** while crafting production-grade applicat
 
 ## 🚀 Featured Projects
 
+### 📦 [**MasterCode - Competitive Programming Platform**](https://github.com/chamollamohit/mastercode) | [Live Demo](https://mastercode.mohitchamolla.site/)
+
+> A high-performance, full-stack coding platform designed for mastering algorithms and technical interviews, featuring a custom-built IDE and real-time code execution.
+
+**Key Features:**
+
+-   **💻 Multi-Language IDE:** Interactive coding environment powered by Monaco Editor supporting `Python`, `JavaScript`, and `Java`.
+-   **⚡ Real-time Execution:** Integrated with `Judge0 API` to provide instant feedback on test cases, including memory usage and execution time.
+-   **📚 Problem Management:** Comprehensive library categorized by difficulty (Easy, Medium, Hard) with topic-based tagging.
+-   **🎧 Personalized Playlists:** Custom collection system allowing users to organize and curate specific challenges for targeted practice.
+-   **🛡️ Admin Dashboard:** Specialized suite for admins to create, validate, and manage coding challenges with reference solutions.
+-   **📊 Performance Analytics:** Detailed user profiles tracking "Arena Victories," submission history, and success rates.
+-   **🌙 Adaptive UI:** Modern, responsive interface built with `Tailwind` and `Shadcn UI`, featuring animated light/dark mode transitions.
+-  
+**Tech Stack:** `Next.js` `TypeScript` `Node.js` `Express` `Prisma ORM` `PostgreSQL` `Redis`
+
+---
+
 ### 🎓 [**Apni Tyari - EdTech LMS**](https://github.com/chamollamohit/apni-tyari-web) | [Live Demo](https://apni-tyari.mohitchamolla.site)
 
 > Learning Management System for competitive exam preparation
@@ -100,24 +118,6 @@ Currently pursuing **M.Sc. in Physics** while crafting production-grade applicat
 **Tech Stack:** `Next.js` `TypeScript` `WebContainer API` `Monaco Editor` `Prisma` `MongoDB` `OpenAI`
 
 ---
-
-### 📦 [**Store-It - Cloud Storage Platform**](https://github.com/chamollamohit/store-it) | [Live Demo](https://store-it.mohitchamolla.site)
-
-> Secure cloud storage platform with passwordless authentication
-
-**Key Features:**
-
--   🔒 Passwordless Email OTP authentication using Appwrite
--   📊 Storage dashboard with radial chart visualization (2GB limit)
--   📁 File categorization by type (Documents, Images, Media, Others)
--   🎯 Drag-and-drop upload with react-dropzone (50MB limit)
--   🔍 Real-time debounced search functionality
--   ⚙️ Comprehensive file management (rename, delete, download)
-
-**Tech Stack:** `Next.js` `TypeScript` `Appwrite` `Recharts` `Tailwind CSS`
-
----
-
 
 ## 💼 Professional Experience
 
